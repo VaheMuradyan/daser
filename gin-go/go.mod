@@ -1,4 +1,4 @@
-module concurrency
+module github.com/VaheMuradyan/daser/gin-go
 
 go 1.23.1
 
